@@ -34,7 +34,7 @@ The lab webpage is hosted by github pages. The code for the webpage is in a gith
 6. Check github to make sure no one else published any changes while you were working. If not, type `git commit -a -m "message describing what you did"`. If there are changes, go back to the terminal or Git Bash and type `git fetch` followed by `git rebase`.
 This will update the files in your local repository and then add your changes on top of that.
 6. Now type `git push`.
-7. navigate to the [online repo on github](https://github.com/okenk/academic-kickstart), find your branch, and click the green button "Compare and pull request". IMPORTANT: Change the base repository from "sourcethemes" to "okenk". Add a message summarizing your changes. Then click the green button "Send pull request".
+7. Navigate to the [online repo on github](https://github.com/okenk/academic-kickstart), find your branch, and click the green button "Compare and pull request". IMPORTANT: Change the base repository from "sourcethemes" to "okenk". Add a message summarizing your changes. Then click the green button "Send pull request".
 8. The published html files are associated with a different repository. Kiva will update these.
 
 Some git commands can be run through RStudio. For more info, [go here](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
