@@ -9,6 +9,7 @@ weight: 2  # Order that this section will appear.
 
 Many of these are open access, but please [get in touch]({{< ref "/#contact" >}}) if you'd like a copy of one behind a paywall!
 
+12. **Oken, K.L.**, D.S. Holland, and A.E. Punt. (2020) [The effects of population synchrony, life history,and access constraints on benefits from fishing portfolios](https://ecoevorxiv.org/u5qze/) EcoEvoArxiv
 11. Jensen O.P., C.W. Martin, **K.L. Oken**, F.J. Fodrie, P.C. López-Duarte, K.W. Able, and B.J. Roberts. (2019) [Simultaneous estimation of dispersal and survival of the Gulf Killifish (*Fundulus grandis*) from a batch tagging experiment](https://www.int-res.com/abstracts/meps/v624/p183-194/). Marine Ecology Progress Series. 624:183-194.
 10. Free C.M., J.T. Thorson, M.L. Pinsky, **K.L. Oken**, J. Wiedenmann, and O.P. Jensen. (2019) [Impacts of historical warming on fisheries production](https://science.sciencemag.org/content/363/6430/979). Science. 363:979-983.
   * [Rutgers press release](https://news.rutgers.edu/climate-change-shrinks-many-fisheries-globally-rutgers-led-study-finds/20190221#.XTTy7ohKg2y)

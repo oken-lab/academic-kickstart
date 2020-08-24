@@ -1,10 +1,3 @@
----
-widget: "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
-weight: 10  # Order that this section will appear
----
-
 # How to add yourself to the lab webpage
 The lab webpage is hosted by github pages. The code for the webpage is in a github repository. Any collaborator on the repository can make changes to the webpage.
 
