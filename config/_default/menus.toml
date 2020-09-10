@@ -33,16 +33,26 @@
   name = "Graduate students"
   url = "prospectives/#grad_students"
   parent = "prospectives"
+  weight = 10
 
 [[main]]
   name = "Postdocs"
   url = "prospectives/#postdocs"
   parent = "prospectives"
+  weight = 20
 
 [[main]]
   name = "What to expect?"
   url = "prospectives/#expectations"
   parent = "prospectives"
+  weight = 30
+
+[[main]]
+  name = "Open postdoc position!"
+  url = "prospectives/#hiring"
+  parent = "prospectives"
+  weight = 40
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
