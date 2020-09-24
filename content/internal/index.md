@@ -23,7 +23,7 @@ The lab webpage is hosted by github pages. The code for the webpage is in a gith
 2. Install the `blogdown` R package.
 3. With the website's RProject open, run the R command `blogdown::serve_site()`. The website will open in the RStudio preview window, though it's kind of buggy. Instead, after successfully running the R command, there should be a message "Serving the directory ~ at X." Copy the url X into a web browser, and you can better preview the webpage.
 4. If you want to make further changes, `blogdown` will automatically update newly saved changes to the locally served site, so just hit refresh in your browser after hitting save in RStudio.
-5. Back in the terminal or Git Bash, type `git commit -a -m "description of changes made"`.
+5. Back in the terminal or Git Bash, type `git add .` and then `git commit -m "description of changes made"`.
 6. Check github to make sure no one else published any changes while you were working. If not, type `git commit -a -m "message describing what you did"`. If there are changes, go back to the terminal or Git Bash and type `git fetch` followed by `git rebase`.
 This will update the files in your local repository and then add your changes on top of that.
 6. Now type `git push`.
